@@ -10,8 +10,12 @@ dependencies = [
     "groq>=1.0.0",
     "jaxn>=0.0.4",
     "jupyter>=1.1.1",
+    "markitdown[pdf]>=0.1.4",
     "minsearch>=0.0.7",
     "openai>=2.16.0",
+    "pandas>=3.0.0",
+    "pydantic>=2.12.5",
     "python-frontmatter>=1.1.0",
     "requests>=2.32.5",
+    "tiktoken>=0.12.0",
 ]
