@@ -1,4 +1,4 @@
-# Just fetch data from trivia API
+
 import requests
 
 def fetch_categories():
