@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+results.json
+results_judged.json
+human_labels.csv
+synthetic_scenarios.csv
+*.pyc

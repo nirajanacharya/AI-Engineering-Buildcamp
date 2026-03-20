@@ -1,4 +1,4 @@
-# Setup logfire query client
+
 import os
 from logfire.query_client import LogfireQueryClient
 
